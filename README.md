@@ -1,4 +1,4 @@
-# Sales Analytics Dashboard
+# Armoiha Analytics Dashboard
 
 This repository contains an interactive analytics dashboard built to analyze sales performance, trends, and key business metrics.  
 The dashboard is designed to support both executive-level decision making and operational sales analysis.
